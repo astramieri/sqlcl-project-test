@@ -20,4 +20,8 @@ This will generate the scripts and Liquibase changelogs for the brach.
 
 ### 4. Cut a release
 
-    SQL> project release - version <version>
+    SQL> project release -version <version>
+
+### 5. Generate artifact
+
+    SQL> project gen-artifact -version <version>
