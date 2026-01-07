@@ -9,3 +9,4 @@ This repository is a sandbox for testing and exploring SQLcl project management 
 
 ## Scope
 This repo is for experimentation and learning only. No production code.
+
