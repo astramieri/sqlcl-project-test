@@ -12,3 +12,8 @@
 
     SQL> project export
 
+### 3. "Copy" everything from `src` to `dist`
+
+This will generate the scripts and Liquibase changelogs for the brach.
+
+    SQL> project stage
