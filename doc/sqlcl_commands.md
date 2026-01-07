@@ -25,3 +25,8 @@ This will generate the scripts and Liquibase changelogs for the brach.
 ### 5. Generate artifact
 
     SQL> project gen-artifact -version <version>
+
+### 6. Deploy to production
+
+    SQL> connect - name <environment>
+    SQL> project deploy -file <artifact>
