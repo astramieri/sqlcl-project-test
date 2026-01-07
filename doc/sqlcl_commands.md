@@ -17,3 +17,7 @@
 This will generate the scripts and Liquibase changelogs for the brach.
 
     SQL> project stage
+
+### 4. Cut a release
+
+    SQL> project release - version <version>
